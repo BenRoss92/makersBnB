@@ -1,0 +1,26 @@
+{
+  "name": "makersbnb",
+  "version": "1.0.0",
+  "description": "makers_bnb_project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BenRoss92/makersBnB.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BenRoss92/makersBnB/issues"
+  },
+  "homepage": "https://github.com/BenRoss92/makersBnB#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "devDependencies": {
+    "mocha": "^3.0.2",
+    "supertest": "^2.0.0"
+  }
+}

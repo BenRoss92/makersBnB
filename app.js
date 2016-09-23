@@ -35,7 +35,6 @@ app.use(expressValidator());
 
 models.sequelize.sync().then(function() { });
 
-
 app.use('/', routes);
 app.use('/users', users);
 app.use('/spaces', spaces);
